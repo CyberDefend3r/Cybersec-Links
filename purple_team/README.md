@@ -2,7 +2,9 @@
   
 # Purple Team  
 - [Threat Simulation/Emulation Labs](/purple_team/threat_simulation_emulation_labs.md)  
-- [Frameworks](/purple_team/pt_frameworks.md)
+- [Frameworks](/purple_team/pt_frameworks.md)  
+- [Advisary Automation Tools](/purple_team/pt_automation.md)  
+- [Planning & Documentation Tools](/purple_team/pt_plan_document.md)  
   
   
 ## What is Purple Teaming?
