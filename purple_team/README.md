@@ -1,7 +1,8 @@
 <img src="https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-2b136dx.png">
   
 # Purple Team  
-- [Threat Simulation/Emulation Labs](/purple_team/threat_simulation_emulation_labs.md)
+- [Threat Simulation/Emulation Labs](/purple_team/threat_simulation_emulation_labs.md)  
+- [Frameworks](/purple_team/pt_frameworks.md)
   
   
 ## What is Purple Teaming?
