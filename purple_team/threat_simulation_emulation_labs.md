@@ -1,4 +1,4 @@
-# Threat Simulation Labs
+# Threat Simulation/Emulation Labs
 Criteria for list is that it is easy stand-up, preconfigured tools & logging, variety of VM's included.  
   
 ## Splunk Attack Range
