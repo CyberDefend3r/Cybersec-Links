@@ -8,7 +8,7 @@
   
   
 ## What is Purple Teaming?
-A purple team is the combination of both offensive and defensive cybersecurity professionals, who perform their responsibilities as a single unit.  
+A purple team is the combination of both offensive (red) and defensive (blue) cybersecurity professionals, who perform their responsibilities as a single unit (purple).  
   
 Check out some of these links to get started.  
   
