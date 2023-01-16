@@ -16,3 +16,8 @@ Check out some of these links to get started.
 - [Knowledgehut - Role of Purple Team in Cybersecurity](https://www.knowledgehut.com/blog/security/purple-teaming)  
 - [Microsoft - How purple teams can embrace hacker culture to improve security](https://www.microsoft.com/en-us/security/blog/2021/06/10/how-purple-teams-can-embrace-hacker-culture-to-improve-security/)  
 - [SANS - Purple Teaming and Threat-Informed Detection Engineering](https://www.sans.org/blog/purple-teaming-threat-informed-detection-engineering/)  
+  
+### YouTube Videos
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=6s-G7u0w-wc"><img src="https://img.youtube.com/vi/6s-G7u0w-wc/0.jpg" alt="SANS PURPLE TEAM"></a>
+</div>
