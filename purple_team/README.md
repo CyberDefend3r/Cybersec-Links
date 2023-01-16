@@ -17,7 +17,7 @@ Check out some of these links to get started.
 - [Microsoft - How purple teams can embrace hacker culture to improve security](https://www.microsoft.com/en-us/security/blog/2021/06/10/how-purple-teams-can-embrace-hacker-culture-to-improve-security/)  
 - [SANS - Purple Teaming and Threat-Informed Detection Engineering](https://www.sans.org/blog/purple-teaming-threat-informed-detection-engineering/)  
   
-### YouTube Videos
+### SANS - Purple Team Explained (YouTube)
 <div align="center">
   <a href="https://www.youtube.com/watch?v=6s-G7u0w-wc"><img src="https://img.youtube.com/vi/6s-G7u0w-wc/0.jpg" alt="SANS PURPLE TEAM"></a>
 </div>
