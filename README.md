@@ -1,8 +1,7 @@
 # Cybersec Links
 Save and share helpful cybersecurity links  
   
-Pick a team.  
-  
+- [Blue Team](/blue_team)  
 - [Purple Team](/purple_team)
   
 MORE TO COME
