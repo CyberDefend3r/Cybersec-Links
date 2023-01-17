@@ -21,7 +21,6 @@ DetectionLabELK is the perfect lab to use if you would like to build effective d
 <img src="https://github.com/cyberdefenders/DetectionLabELK/blob/master/img/DetectionLabELK-new.jpg" width="800px">  
   
 https://github.com/cyberdefenders/DetectionLabELK  
-  
 https://twitter.com/CyberDefenders  
   
 ##  Detectionlab
