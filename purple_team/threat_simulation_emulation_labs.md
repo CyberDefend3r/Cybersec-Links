@@ -2,24 +2,37 @@
 Criteria for list is that it is easy stand-up, preconfigured tools & logging, variety of VM's included.  
   
 ## Splunk Attack Range
-<img src="https://github.com/splunk/attack_range/blob/develop/docs/attack_range_architecture.png">
+The Splunk Attack Range is an open-source project maintained by the Splunk Threat Research Team. It builds instrumented cloud and local environments, simulates attacks, and forwards the data into a Splunk instance. This environment can then be used to develop and test the effectiveness of detections.  
+  
+<img src="https://github.com/splunk/attack_range/blob/develop/docs/attack_range_architecture.png" width="800px">  
+  
 https://github.com/splunk/attack_range  
   
 ## BlueTeam.Lab
-<img src="https://github.com/op7ic/BlueTeam.Lab/blob/main/documentation/pic/layout.png">
+The goal of this project is to provide the red and blue teams with the ability to deploy an ad-hoc detection lab to test various attacks and forensic artifacts on the latest Windows environment and then to get a 'SOC-like' view into generated data.  
+  
+<img src="https://github.com/op7ic/BlueTeam.Lab/blob/main/documentation/pic/layout.png" width="800px">  
+  
 https://github.com/op7ic/BlueTeam.Lab  
   
 ## DetectionlabELK
-<img src="https://github.com/cyberdefenders/DetectionLabELK/blob/master/img/DetectionLabELK-new.jpg">  
+DetectionLabELK is the perfect lab to use if you would like to build effective detection capabilities. It has been designed with defenders in mind. Its primary purpose is to allow blueteams to quickly build a Windows domain that comes pre-loaded with security tooling and some best practices when it comes to system logging configurations. It can easily be modified to fit most needs or expanded to include additional hosts.  
+  
+<img src="https://github.com/cyberdefenders/DetectionLabELK/blob/master/img/DetectionLabELK-new.jpg" width="800px">  
+  
 https://github.com/cyberdefenders/DetectionLabELK  
+  
 https://twitter.com/CyberDefenders  
   
 ##  Detectionlab
 **No longer maintained as of 01-01-2023** - *Still available*  
-<img src="https://detectionlab.network/images/lab.png?width=1200">
+This lab has been designed with defenders in mind. Its primary purpose is to allow the user to quickly build a Windows domain that comes pre-loaded with security tooling and some best practices when it comes to system logging configurations. It can easily be modified to fit most needs or expanded to include additional hosts.  
+  
+<img src="https://detectionlab.network/images/lab.png" width="800px">  
+  
 https://detectionlab.network  
 https://github.com/clong/detectionlab  
-https://twitter.com/detectionlab 
+https://twitter.com/detectionlab  
   
 
   
