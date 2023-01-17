@@ -4,5 +4,6 @@
   
 <img src="https://raw.githubusercontent.com/scythe-io/purple-team-exercise-framework/master/images/PTEF.png">  
   
-- [Instructions and Guide](https://github.com/scythe-io/purple-team-exercise-framework/blob/master/PTEFv2.md)  
-- [Templates](https://github.com/scythe-io/purple-team-exercise-framework/tree/master/Templates)
+SCYTHE created a Purple Team Exercise Framework (PTEF) to facilitate the creation of a formal Purple Team Program by performing adversary emulations as Purple Team Exercises and/or Continuous Purple Teaming Operations.  
+  
+[Instructions and Guide](https://github.com/scythe-io/purple-team-exercise-framework/blob/master/PTEFv2.md)  
