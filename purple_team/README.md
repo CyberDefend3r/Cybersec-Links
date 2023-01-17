@@ -1,4 +1,4 @@
-<img src="https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-2b136dx.png">
+<img src="https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-2b136dx.png" width="600px">
   
 # Purple Team  
 - [Threat Simulation/Emulation Labs](/purple_team/threat_simulation_emulation_labs.md)  
@@ -18,11 +18,11 @@ Check out some of these links to get started.
 - [SANS - Purple Teaming and Threat-Informed Detection Engineering](https://www.sans.org/blog/purple-teaming-threat-informed-detection-engineering/)  
   
 **SANS - Purple Team Explained (YouTube)**
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/watch?v=6s-G7u0w-wc"><img src="https://img.youtube.com/vi/6s-G7u0w-wc/0.jpg" alt="SANS PURPLE TEAM"></a>
 </div>  
   
 **SANS - Purple Team Feedback Loop (YouTube)**  
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/watch?v=44PjdBd6e88"><img src="https://img.youtube.com/vi/44PjdBd6e88/0.jpg" alt="SANS PURPLE TEAM"></a>
 </div>  
