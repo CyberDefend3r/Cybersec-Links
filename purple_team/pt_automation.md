@@ -20,7 +20,7 @@ https://caldera.mitre.org/
 <img src="https://avatars.githubusercontent.com/u/36221578?s=200&v=4">  
   
 ### APT Simulator
- APT Simulator is a Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised. In contrast to other adversary simulation tools, APT Simulator is designed to make the application as simple as possible.  
+APT Simulator is a Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised. In contrast to other adversary simulation tools, APT Simulator is designed to make the application as simple as possible.  
   
 https://github.com/NextronSystems/APTSimulator  
   
@@ -32,4 +32,12 @@ This tool simulates typical ransomware behaviour, such as:
 - Encrypting documents (embedded and dropped by the simulator into a new folder)
 - Dropping a ransomware note to the user's desktop  
   
-https://github.com/NextronSystems/ransomware-simulator
+https://github.com/NextronSystems/ransomware-simulator  
+  
+## Infection Monkey
+<img src="https://avatars.githubusercontent.com/u/5675395?s=200&v=4">  
+  
+The Infection Monkey is an open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection. The Monkey uses various methods to self propagate across a data center and reports success to a centralized Monkey Island server.  
+  
+https://github.com/guardicore/monkey  
+
