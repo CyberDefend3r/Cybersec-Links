@@ -1,10 +1,11 @@
 <img src="https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-2b136dx.png" width="600px">
   
 # Purple Team  
-- [Simulation/Emulation Labs](/purple_team/pt_simulation_emulation_labs.md)  
 - [Frameworks](/purple_team/pt_frameworks.md)  
-- [Advisary Attack Automation Tools](/purple_team/pt_automation.md)  
 - [Planning & Documentation Tools](/purple_team/pt_plan_document.md)  
+- [Deployable Simulation/Emulation Labs](/purple_team/pt_simulation_emulation_labs.md)  
+- [Advisary Attack Automation Tools](/purple_team/pt_automation.md)  
+
   
   
 ## What is Purple Teaming?
