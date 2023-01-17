@@ -26,3 +26,8 @@ SANS - Purple Team Feedback Loop (YouTube)
 <div align="left">
   <a href="https://www.youtube.com/watch?v=44PjdBd6e88"><img src="https://img.youtube.com/vi/44PjdBd6e88/0.jpg" alt="SANS PURPLE TEAM"></a>
 </div>  
+  
+SANS - Running Your First Purple Team Exercise - An Intro to Purple Teaming (YouTube)  
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=XFsUsVEDZI4"><img src="https://img.youtube.com/vi/XFsUsVEDZI4/0.jpg" alt="SANS PURPLE TEAM"></a>
+</div>  
