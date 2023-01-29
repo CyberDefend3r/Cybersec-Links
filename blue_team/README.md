@@ -12,4 +12,7 @@
 ## What is Blue Team?
 Blue team defends and protects the security of a business against cyberattacks. In addition, they find ways to improve an organization's security defenses by constantly analyzing its security posture. As a blue team member, one will be responsible for automating security processes, managing incidents, and gathering threat intelligence.  
   
-https://www.knowledgehut.com/blog/security/cyber-security-blue-team
+https://www.knowledgehut.com/blog/security/cyber-security-blue-team  
+  
+----  
+<img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="20px"> [@Trevor_of_Earth](https://twitter.com/Trevor_of_Earth)
