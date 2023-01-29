@@ -32,3 +32,6 @@ SANS - Running Your First Purple Team Exercise - An Intro to Purple Teaming (You
 <div align="left">
   <a href="https://www.youtube.com/watch?v=XFsUsVEDZI4"><img src="https://img.youtube.com/vi/XFsUsVEDZI4/0.jpg" alt="SANS PURPLE TEAM"></a>
 </div>  
+  
+  
+<img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="20px"> [@Trevor_of_Earth](https://twitter.com/Trevor_of_Earth)
