@@ -40,4 +40,5 @@ https://github.com/NextronSystems/ransomware-simulator
 The Infection Monkey is an open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection. The Monkey uses various methods to self propagate across a data center and reports success to a centralized Monkey Island server.  
   
 https://github.com/guardicore/monkey  
-
+  
+<img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="20px"> [@Trevor_of_Earth](https://twitter.com/Trevor_of_Earth)
