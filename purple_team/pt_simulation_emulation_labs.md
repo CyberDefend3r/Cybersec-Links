@@ -1,6 +1,17 @@
 # Simulation/Emulation Labs
 Criteria for list is that it is easy stand-up, preconfigured tools & logging, variety of VM's included.  
   
+## Kali Purple
+
+<img src="https://gitlab.com/kalilinux/documentation/kali-purple/-/raw/main/pictures/Kali-Purple-03-Architecture.png">
+  
+- Practice Ops: Virtualization, firewalls, VLAN, WAF, SIEM, IDS/IPS, ...
+- Practice Red: Penetration testing of vulnerable machines while seeing what the blue team sees. Can you become stealthier?
+- Practice Blue: Firewall and IPS rules, SIEM analysis and dashboard development, ...
+- Purple teaming: Red and Blue working together to develop the ultimate set of rules
+  
+https://gitlab.com/kalilinux/documentation/kali-purple
+  
 ## Splunk Attack Range
 The Splunk Attack Range is an open-source project maintained by the Splunk Threat Research Team. It builds instrumented cloud and local environments, simulates attacks, and forwards the data into a Splunk instance. This environment can then be used to develop and test the effectiveness of detections.  
   
