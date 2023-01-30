@@ -4,7 +4,7 @@
 - [Frameworks](/purple_team/pt_frameworks.md)  
 - [Planning & Documentation Tools](/purple_team/pt_plan_document.md)  
 - [Deployable Simulation/Emulation Labs](/purple_team/pt_simulation_emulation_labs.md)  
-- [Advisary Attack Automation Tools](/purple_team/pt_automation.md)  
+- [Adversary Attack Automation Tools](/purple_team/pt_automation.md)  
 
   
   
