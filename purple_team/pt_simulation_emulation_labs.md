@@ -45,4 +45,4 @@ https://github.com/clong/detectionlab
 https://twitter.com/detectionlab  
   
 ----  
-<img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="20px"> [@Trevor_of_Earth](https://twitter.com/Trevor_of_Earth)
+<img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="20px"> [@Cyb3r_Detect0r](https://twitter.com/Cyb3r_Detect0r)
