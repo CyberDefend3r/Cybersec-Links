@@ -7,5 +7,4 @@ Save and share helpful cybersecurity links
 *MORE TO COME...*  
   
 ----  
-<img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="20px"> [@Cyb3r_Detect0r](https://twitter.com/Cyb3r_Detect0r)
-
+<img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="20px"> [@Cyb3rDefender](https://twitter.com/Cyb3rDefender)
