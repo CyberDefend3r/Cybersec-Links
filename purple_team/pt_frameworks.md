@@ -9,4 +9,4 @@ SCYTHE created a Purple Team Exercise Framework (PTEF) to facilitate the creatio
 [Instructions and Guide](https://github.com/scythe-io/purple-team-exercise-framework/blob/master/PTEFv2.md)  
   
 ----  
-<img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="20px"> [@Cyb3r_Detect0r](https://twitter.com/Cyb3r_Detect0r)
+<img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" width="20px"> [@Cyb3rDefender](https://twitter.com/Cyb3rDefender)
